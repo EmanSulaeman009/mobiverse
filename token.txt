@@ -1,1 +1,1 @@
-user=%7B%2xxxxxxxx%22first_name%22%xxxxxxx2last_name%22%3Axxxxxxxxername%22%3A%22andraz404%22%2C%22language_code%22%3A%2xxxxxxo_pm%22%3xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx91544965661276&chaxxxxxxxxxx
+user=%7B%22id%22%3A2069109496%2C%22first_name%22%3A%22Bangboy%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22bangboy712%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=7823197201055016289&chat_type=sender&auth_date=1719402384&hash=8881645b7434f94ab8c1d59b9120f31425ad278406fe53368164575428f5a529
